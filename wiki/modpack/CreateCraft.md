@@ -1,12 +1,14 @@
 ![](https://mod.hemerald.net/wiki/create/createcraft.png)
-# Manuale di installazione
+# <p style="text-align: center;">Manuale di Installazione</p>
 
 ### Installazione java 17
 
 - Scarica il file di java per il tuo sistema operativo da [qui](https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi)
 - Una volta scaricato il fiel avvialo e ti comparirà una schermata simile
-
-![](https://mod.hemerald.net/wiki/create/java.png)
+- 
+<figure>
+    <img src="https://mod.hemerald.net/wiki/create/java.png" alt="java">
+</figure>
 
 - Premi installa e attendi la conclusione dell'installazione
 - Conclusa l'installazione apparirà una schermata simile.
