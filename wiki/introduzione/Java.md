@@ -11,3 +11,5 @@
 ![](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/assets/hemerald/textures/wiki/modpack/CreateCraft/3.png?raw=true)
 
 **ATTENZIONE** Per qualsiasi problema puoi contattare la nostra assistenza su [discord](https://discord.gg/hemerald)
+
+###### Clicca [qui](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/Download.md) per tornare alla pagina di Download
