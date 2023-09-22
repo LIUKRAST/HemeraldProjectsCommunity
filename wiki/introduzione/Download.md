@@ -26,4 +26,4 @@ Quando effettuato il login, potrai cliccare su **Scarica la Nostra Mod**
 
 A questo punto seleziona la mod per Forge1.19.2 (O per quello che vuoi usare), inseriscila nella cartella delle mod e avvia minecraft.
 
-Ora puoi passare al prossimo step, ovvero [verificare il tuo account](https://mod.hemerald.net/wiki/Verifica.md);
+Ora puoi passare al prossimo step, ovvero [verificare il tuo account](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/Verifica.md);
