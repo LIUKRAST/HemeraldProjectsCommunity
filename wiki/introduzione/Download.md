@@ -24,6 +24,6 @@ Quando effettuato il login, potrai cliccare su **Scarica la Nostra Mod**
 
 ![](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/assets/hemerald/textures/wiki/introduzione/Download/2.png?raw=true)
 
-A questo punto hai scaricato il file jar della mod. Inseriscila nella cartella delle mod e avvia minecraft.
+A questo punto seleziona la mod per Forge1.19.2 (O per quello che vuoi usare), inseriscila nella cartella delle mod e avvia minecraft.
 
 Ora puoi passare al prossimo step, ovvero [verificare il tuo account](https://mod.hemerald.net/wiki/Verifica.md);
