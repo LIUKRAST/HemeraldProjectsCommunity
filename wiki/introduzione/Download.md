@@ -8,7 +8,6 @@ Prima di tutto però, dobbiamo installare java sul nostro computer. Per fare que
 Per giocare con le mod, bisogna installare un loader che le supporti. La mod per ora è disponibile solo per Forge.
 Personalmente consiglio di usare [ATLauncher](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/loader/ATLauncher.md), che è semplice da installare e utilizzare. Altrimenti, qui trovi alcuni altri loader/launcher:
 - [Vanilla](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/loader/Vanilla.md)
-- [MultiMC](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/loader/MultiMC.md) 
 - [CurseForge](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/loader/CurseForge.md)
 - [ATLauncher](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/loader/ATLauncher.md)
 
