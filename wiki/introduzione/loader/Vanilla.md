@@ -16,4 +16,7 @@ Se non sai di cosa stiamo parlando, torna alla [pagina wiki per Download](https:
 ![](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/assets/hemerald/textures/wiki/introduzione/loader/Vanilla/3.png?raw=true)
 
 - Adesso apri il launcher di minecraft. Se vedrai la stessa cosa che si vede in questa foto cerchiata in rosso, allora sei riuscito a installare tutto.
-![]
+
+![](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/assets/hemerald/textures/wiki/introduzione/loader/Vanilla/4.png?raw=true)
+
+- Per finire, 
