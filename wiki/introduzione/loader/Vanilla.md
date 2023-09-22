@@ -1,6 +1,6 @@
 # Vanilla
 Questa sarà la guida per installare Forge su minecraft vanilla e per aprire la cartella in cui va messo il file della mod.
-Se non sai di cosa stiamo parlando, torna alla [pagina wiki per Download](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/Download.md)
+Se non sai di cosa stiamo parlando, torna alla [pagina wiki per Download](https://mod.hemerald.net/wiki/introduzione/Download.md)
 
 - Vai sul sito di [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) e scarica il file per la versione corretta di minecraft (Di base 1.19.2)
 
@@ -29,4 +29,4 @@ Se non sai di cosa stiamo parlando, torna alla [pagina wiki per Download](https:
 
 In questa cartella inserirai il file della mod.
 
-###### Clicca [qui](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/Download.md) per tornare alla pagina di Download
+###### Clicca [qui](https://mod.hemerald.net/wiki/introduzione/Download.md) per tornare alla pagina di Download

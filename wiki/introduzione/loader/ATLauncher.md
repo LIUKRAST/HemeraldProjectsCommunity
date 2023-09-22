@@ -2,7 +2,7 @@
 ATLauncher è l'opzione preferita per noi moderatori perché facile da usare e pulito.
 
 - Installa ATLauncher da [qui](https://atlauncher.com/downloads) per il tuo pc
-- Successivamente, basta che continui a cliccare ***next*** fino ad installare ATLauncher
+- Successivamente, basta che continui a cliccare ***next*** fino a installare ATLauncher
 - Clicca su Accounts e poi su **Login with Microsoft** per effettuare il login 
 
 ![](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/assets/hemerald/textures/wiki/introduzione/loader/ATLauncher/1.png?raw=true)
@@ -15,6 +15,6 @@ ATLauncher è l'opzione preferita per noi moderatori perché facile da usare e p
 
 ![](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/assets/hemerald/textures/wiki/introduzione/loader/ATLauncher/3.png?raw=true)
 
-- Ora che hai aperto la cartella, entra nella cartella **mods**. E' qui che inserirai il file jar della mod!
+- Ora che hai aperto la cartella, entra nella cartella **mods**. È qui che inserirai il file jar della mod!
 
-###### Clicca [qui](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/Download.md) per tornare alla pagina di Download
+###### Clicca [qui](https://mod.hemerald.net/wiki/introduzione/Download.md) per tornare alla pagina di Download
