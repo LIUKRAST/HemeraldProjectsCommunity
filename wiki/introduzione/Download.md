@@ -2,11 +2,11 @@
 
 ## Installazione Loader o Launcher
 Per giocare con le mod, bisogna installare un loader che le supporti. La mod per ora è disponibile solo per Forge.
-Personalmente consiglio di usare [ATLauncher](https://mod.hemerald.net/wiki/loader/atlauncher), che è semplice da installare e utilizzare. Altrimenti, qui trovi alcuni altri loader/launcher:
-- [Vanilla](https://mod.hemerald.net/wiki/loader/Vanilla.md)
-- [MultiMC](https://mod.hemerald.net/wiki/loader/Multimc.md) 
-- [CurseForge](https://mod.hemerald.net/wiki/loader/Curseforge.md)
-- [ATLauncher](https://mod.hemerald.net/wiki/loader/Atlauncher.md)
+Personalmente consiglio di usare [ATLauncher](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/loader/ATLauncher.md), che è semplice da installare e utilizzare. Altrimenti, qui trovi alcuni altri loader/launcher:
+- [Vanilla](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/loader/Vanilla.md)
+- [MultiMC](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/loader/MultiMC.md) 
+- [CurseForge](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/loader/CurseForge.md)
+- [ATLauncher](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/loader/ATLauncher.md)
 
 ## Installazione Mod
 A questo punto, sappiamo dove inserire il jar della mod, ma non sappiamo dove scaricarlo.
