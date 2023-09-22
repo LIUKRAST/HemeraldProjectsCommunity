@@ -1,5 +1,9 @@
 # Download
 
+Per installare la mod dei sub, dobbiamo scaricare 2 cose. La prima è forge, che praticamente è il sistema che carica le mod. E poi la mod in se, che è un file .jar
+
+Prima di tutto però, dobbiamo installare java sul nostro computer. Per fare questo, segui [questo](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/Java.md) punto della guida.
+
 ## Installazione Loader o Launcher
 Per giocare con le mod, bisogna installare un loader che le supporti. La mod per ora è disponibile solo per Forge.
 Personalmente consiglio di usare [ATLauncher](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/loader/ATLauncher.md), che è semplice da installare e utilizzare. Altrimenti, qui trovi alcuni altri loader/launcher:
