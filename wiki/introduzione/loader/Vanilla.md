@@ -11,4 +11,9 @@ Se non sai di cosa stiamo parlando, torna alla [pagina wiki per Download](https:
 
 ![](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/assets/hemerald/textures/wiki/introduzione/loader/Vanilla/2.png?raw=true)
 
-- Clicca semplicemente **OK** e forge si installerà da solo.
+- Clicca semplicemente **OK** e forge si installerà da solo. Quando avrà finito l'installazione, ti dirà che ha finito con questa finestra qui sotto. Clicca quindi ok per terminare l'installazione
+
+![](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/assets/hemerald/textures/wiki/introduzione/loader/Vanilla/3.png?raw=true)
+
+- Adesso apri il launcher di minecraft. Se vedrai la stessa cosa che si vede in questa foto cerchiata in rosso, allora sei riuscito a installare tutto.
+![]
