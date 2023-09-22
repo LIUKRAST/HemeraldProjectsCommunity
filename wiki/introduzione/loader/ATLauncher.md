@@ -11,4 +11,10 @@ ATLauncher è l'opzione preferita per noi moderatori perché facile da usare e p
 
 ![](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/assets/hemerald/textures/wiki/introduzione/loader/ATLauncher/2.png?raw=true)
 
-- 
+- Ora che hai creato una nuova installazione, selezionala nella sezione a destra **Instances** e apri la cartella:
+
+![](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/assets/hemerald/textures/wiki/introduzione/loader/ATLauncher/3.png?raw=true)
+
+- Ora che hai aperto la cartella, entra nella cartella **mods**. E' qui che inserirai il file jar della mod!
+
+###### Clicca [qui](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/wiki/introduzione/Download.md) per tornare alla pagina di Download
