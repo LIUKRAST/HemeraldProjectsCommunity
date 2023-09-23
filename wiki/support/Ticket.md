@@ -4,4 +4,4 @@ Successivamente vai nelle impostazioni di discord, clicca su **Connessioni** (O 
 
 Una volta fatto, apri un ticket con categoria mod sul discord di hemerald:
 ![](https://cdn.discordapp.com/attachments/888176883395612713/1154434995885187083/image.png)
-Ora fornisci le informazioni necessarie per essere aiutato. Se la mod e crashata, consulta [questo documento](https://mod.hemerald.net/wiki/support/Crash.md)
+Ora fornisci le informazioni necessarie per essere aiutato. Se la mod é crashata, consulta [questo documento](https://mod.hemerald.net/wiki/support/Crash.md)
