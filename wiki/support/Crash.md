@@ -2,7 +2,10 @@
 Il crash della mod o del pacchetto della createcraft è noioso e ovviamente vogliamo risolverlo velocemente. Vediamo quindi che si può fare!
 
 ### Motivi comuni
-Se il tuo computer non è dei migliori allora sicuramente non puoi aspettarti di tutto, soprattutto se stai provando ad installare la CreateCraft. 
+Prima di aprire un [ticket](Ticket.md), prova a vedere se hai uno di questi problemi:
+
+(Se il tuo computer non è dei migliori allora sicuramente non puoi aspettarti di tutto, soprattutto se stai provando ad installare la CreateCraft)
+
 ### 1. Incrementare la ram
 Di base minecraft utilizza 1024 (1GB) di ram, che sono troppo pochi per avviare tante mod come quelle contenute nella Createcraft. Quindi ti consiglio di incrementare la ram alla metà di quanta ne ha il tuo computer o meno. Non salire mai sopra. I valori della ram vanno impostati in multipli di 1024, ecco alcuni esempi:
 - 1GB ram = 1024
