@@ -7,5 +7,5 @@ Da qui, potrete vedere le ultime notizie del modpack, della mod e di tanto altro
 > L'aggiornamento alla 1.20 è stato effettuato!
 - Aggiunte le nuove flywheel !![L'immagine non si carica](img.png) Con una marea di combinazioni diverse, le flywheel possono essere fatte ruotare con una shaft o anche **Mettendole su di un treno**!
 - Aggiunto il contatore di energia, che ti dice per l'appunto quanta Forge Energy passa al tick
-- In arrivo i 3 nuovi pattern per banner a tema hemerald !![L'immagine non si carica](https://github.com/LIUKRAST/HemeraldProjectsCommunity/blob/main/web_menu/img.png?raw=true)
+- In arrivo i 3 nuovi pattern per banner a tema hemerald !![L'immagine non si carica](img_1.png)
 Questo è tutto per oggi! Per qualsiasi problema, ricordate di andare sul [discord](https://discord.gg/hemerald)

@@ -3,7 +3,7 @@
 Se il problema che stai riscontrando non viene risposto in questo file, allora apri un ticket sul nostro [Discord](https://discord.gg/hemerald)
 
 ### [?] Non so come installare la mod/java/forge; che faccio?
-- Se stai cercando di giocare alla **CreateCraft**, allora segui [questo](modpack/CreateCraft.md) tutorial. Altrimenti, attieniti al [tutorial](introduzione/Download.md) normale per la mod singola.
+- Se stai cercando di giocare alla **CreateCraft**, allora segui [questo](modpack/CreateSub.md) tutorial. Altrimenti, attieniti al [tutorial](introduzione/Download.md) normale per la mod singola.
 ### [?] Come apro un ticket su discord?
 - Segui il tutorial che si trova [qui](support/Ticket.md)
 ### [?] La mod crasha, a chi mi rivolgo?
