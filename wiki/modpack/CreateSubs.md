@@ -1,4 +1,4 @@
-!![titolo](CreateCraft/1.png)
+![titolo](CreateCraft/1.png)
 
 # <p style="text-align: center;">Manuale di Installazione</p>
 
