@@ -10,4 +10,4 @@
 
 - Procedi dunque all'installazione di [Prism Launcher](https://prismlauncher.org/download/)
 - Una volta installato correttamente Prism, in alto a destra, fai il login con il tuo account
-- Trascina quindi la zip che hai scaricato dal [sito della mod](https://mod.hemerald.net) dentro prism, e fatto!
+- Trascina quindi la zip che hai scaricato dal [sito della mod](https://mod.hemerald.net) dentro prism, e fatto![pack.mcmeta](..%2F..%2Fdiscs%2Fpack.mcmeta)
